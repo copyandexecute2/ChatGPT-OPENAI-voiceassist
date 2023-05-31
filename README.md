@@ -2,4 +2,4 @@
 Chatgpt with voice assist
 ## run
 Run command:
-pip install SpeechRecognition openai  pyttsx3
+$ pip install SpeechRecognition openai  pyttsx3
